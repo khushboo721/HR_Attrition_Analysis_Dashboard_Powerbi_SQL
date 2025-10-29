@@ -31,13 +31,12 @@ These gaps caused:
 ## Objectives  
 - Identify and visualize **attrition drivers** across departments and roles.  
 - Analyze the correlation between **job satisfaction**, **overtime**, and **attrition rate**.  
-- Provide HR and management with **data-backed insights** for retention strategies.
-- 
+- Provide HR and management with **data-backed insights** for retention strategies. 
 
 ## Tools & Technologies  
-| **Microsoft Excel** | Used for initial data cleaning, validation, and exploratory analysis through pivot tables and charts. |
-| **SQL Server (SSMS)** | For creating databases, transforming data, and executing analytical queries. |
-| **Power BI Desktop** | For DAX calculations, data modeling, and building the interactive dashboard. |
+- **Microsoft Excel** - Used for initial data cleaning, validation, and exploratory analysis through pivot tables and charts. 
+- **SQL Server (SSMS)** - For creating databases, transforming data, and executing analytical queries. 
+- **Power BI Desktop** - For DAX calculations, data modeling, and building the interactive dashboard. 
    
 
 ##  Business Questions Answered  
