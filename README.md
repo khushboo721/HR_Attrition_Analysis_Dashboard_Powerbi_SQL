@@ -34,11 +34,10 @@ These gaps caused:
 - Provide HR and management with **data-backed insights** for retention strategies. 
 
 ## Tools & Technologies  
-- **Microsoft Excel** - Used for initial data cleaning, validation, and exploratory analysis through pivot tables and charts. 
-- **SQL Server (SSMS)** - For creating databases, transforming data, and executing analytical queries. 
-- **Power BI Desktop** - For DAX calculations, data modeling, and building the interactive dashboard. 
-   
-
+- **Microsoft Excel** - Cleaned and validated raw HR data for accuracy and consistency.
+- **SQL Server (SSMS)** - Created tables, inserted data, and performed transformations using SQL queries.
+- **Power BI Desktop** - Connected to SQL for visualization, built DAX measures, and designed an interactive dashboard to uncover attrition insights.
+  
 ##  Business Questions Answered  
 1. What is the overall attrition rate?  
 2. Which departments are facing the highest attrition and why?  
